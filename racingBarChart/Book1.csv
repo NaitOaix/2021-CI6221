@@ -1,0 +1,15 @@
+year,university,school,name,value,lastvalue,rank
+2013,NTU,College of Engineering,Computer Science,3125,0,2
+2014,NTU,College of Engineering,Computer Science,3200,3125,2
+2015,NTU,College of Engineering,Computer Science,3300,3200,1
+2016,NTU,College of Engineering,Computer Science,3500,3300,1
+2017,NTU,College of Engineering,Computer Science,3850,3500,1
+2018,NTU,College of Engineering,Computer Science,4000,3850,1
+2019,NTU,College of Engineering,Computer Science,4200,4000,1
+2013,SMU,School of Business (4-years programme) *,Business Management,3200,0,1
+2014,SMU,School of Business (4-year programme) *,Business Management,3333,3200,1
+2015,SMU,School of Business (4-year programme) *,Business Management,3300,3333,1
+2016,SMU,School of Business (4-year programme) *,Business Management,3500,3300,1
+2017,SMU,School of Business (4-years programme) *,Business Management,3500,3500,2
+2018,SMU,School of Business (4-year programme) *,Business Management,3700,3500,2
+2019,SMU,School of Business (4-year programme) *,Business Management,3750,3700,2

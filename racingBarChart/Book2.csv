@@ -1,0 +1,830 @@
+year,university,degree,value,lastvalue,Rank
+2013,SMU,Law (Cum Laude and above) ,5547,0,1
+2013,SMU,Law ,5000,0,2
+2013,NUS,Bachelor of Laws ,5000,0,3
+2013,NUS,Bachelor of Medicine and Bachelor of Surgery ,4500,0,4
+2013,NUS,Bachelor of Dental Surgery,4000,0,5
+2013,SMU,Information Systems Management (Cum Laude and above),3800,0,6
+2013,SMU,Economics (Cum Laude and above),3600,0,7
+2013,SMU,Business Management (Cum Laude and above),3580,0,8
+2013,NTU,Aerospace Engineering,3500,0,9
+2013,NUS,Bachelor of Science (Pharmacy) (Hons) ,3500,0,10
+2013,NTU,Arts (with Education),3498,0,11
+2013,NTU,Science (with Education),3498,0,12
+2013,NUS,Bachelor of Computing (Computer Science),3425,0,13
+2013,NTU,Business and Computing,3400,0,14
+2013,NTU,Accountancy and Business,3350,0,15
+2013,SMU,Economics,3339,0,16
+2013,SMU,Information Systems Management,3300,0,17
+2013,NTU,Physics and Applied Physics,3300,0,18
+2013,NUS,Bachelor of Engineering (Mechanical Engineering),3225,0,19
+2013,SMU,Social Sciences (Cum Laude and above),3200,0,20
+2013,NTU,Chemical and Biomolecular Engineering,3200,0,21
+2013,NTU,Information Engineering and Media,3200,0,22
+2013,NUS,Bachelor of Arts (Hons),3200,0,23
+2013,NUS,Bachelor of Business Administration (Hons),3200,0,24
+2013,NUS,Bachelor of Engineering (Computer Engineering),3200,0,25
+2013,NUS,Bachelor of Engineering (Electrical Engineering),3200,0,26
+2013,NUS,Bachelor of Engineering (Industrial and Systems Engineering),3200,0,27
+2013,NUS,Bachelor of Social Sciences,3200,0,28
+2013,NTU,Computer Engineering,3175,0,29
+2013,NUS,Bachelor of Engineering (Chemical Engineering),3175,0,30
+2013,NTU,Bioengineering,3125,0,31
+2013,NTU,Computer Science,3125,0,32
+2013,NUS,Bachelor of Engineering (Environmental Engineering),3110,0,33
+2013,NTU,Chemistry and Biological Chemistry,3100,0,34
+2013,NTU,Civil Engineering,3100,0,35
+2013,NTU,Electrical and Electronic Engineering,3100,0,36
+2013,NTU,English,3100,0,37
+2013,NTU,Mechanical Engineering,3100,0,38
+2013,NTU,Sociology,3100,0,39
+2013,NUS,Bachelor of Science (Hons),3100,0,40
+2013,NUS,Bachelor of Computing (Electronic Commerce),3080,0,41
+2013,NUS,Bachelor of Computing (Communications and Media),3050,0,42
+2013,NUS,Bachelor of Engineering (Civil Engineering),3050,0,43
+2013,NUS,Bachelor of Science (Nursing) (Hons),3025,0,44
+2013,NUS,Bachelor of Computing (Information Systems),3005,0,45
+2013,SMU,Accountancy (Cum Laude and above),3000,0,46
+2013,SMU,Social Sciences,3000,0,47
+2013,NTU,Biological Sciences,3000,0,48
+2013,NTU,Business,3000,0,49
+2013,NTU,Chinese,3000,0,50
+2013,NTU,Communication Studies,3000,0,51
+2013,NTU,Economics,3000,0,52
+2013,NTU,Environmental Engineering,3000,0,53
+2013,NTU,Maritime Studies,3000,0,54
+2013,NTU,Materials Engineering,3000,0,55
+2013,NTU,Mathematical Sciences,3000,0,56
+2013,NTU,Psychology,3000,0,57
+2013,NTU,Sports Science and Management,3000,0,58
+2013,NUS,Bachelor of Business Administration,3000,0,59
+2013,NUS,Bachelor of Engineering (Biomedical Engineering),3000,0,60
+2013,NUS,Bachelor of Engineering (Engineering Science),3000,0,61
+2013,NUS,Bachelor of Engineering (Materials Science and Engineering),3000,0,62
+2013,NUS,Bachelor of Science (Project and Facilities Management),3000,0,63
+2013,NUS,Bachelor of Science (Nursing),2950,0,64
+2013,NUS,Bachelor of Applied Science (Hons),2900,0,65
+2013,NUS,Bachelor of Science (Real Estate),2900,0,66
+2013,NTU,Biomedical Sciences and Chinese Medicine ,2807,0,67
+2013,NUS,Bachelor of Arts,2800,0,68
+2013,NUS,Bachelor of Business Administration (Accountancy) (Hons),2800,0,69
+2013,NUS,Bachelor of Science,2800,0,70
+2013,NTU,Accountancy,2700,0,71
+2013,NUS,Bachelor of Business Administration (Accountancy),2700,0,72
+2013,NUS,Bachelor of Arts (Industrial Design),2650,0,73
+2013,NTU,Linguistics and Multilingual Studies,2625,0,74
+2013,NTU,"Art, Design and Media",2500,0,75
+2013,NTU,Biomedical Sciences **,na,na,na
+2013,NTU,Mathematics and Economics **,na,na,na
+2013,NUS,Bachelor of Applied Science **,na,na,na
+2013,NUS,Bachelor of Arts (Architecture) ** ,na,na,na
+2013,NUS,Bachelor of Computing (Computational Biology) **,na,na,na
+2013,NUS,Bachelor of Computing (Computer Engineering) **,na,na,na
+2013,NUS,Bachelor of Music **,na,na,na
+2013,NUS,Bachelor of Science (Computational Biology) **,na,na,na
+2014,SMU,Law (Cum Laude and above) ,5800,5547,1
+2014,NUS,Bachelor of Laws ,5150,5000,2
+2014,SMU,Law ,5025,5000,3
+2014,NUS,Bachelor of Medicine and Bachelor of Surgery ,5000,4500,4
+2014,NUS,Bachelor of Arts (Architecture) ,4275,0,5
+2014,SMU,Information Systems Management (Cum Laude and above),4050,3800,6
+2014,NUS,Bachelor of Dental Surgery,4000,4000,7
+2014,SMU,Economics (Cum Laude and above),3800,3600,8
+2014,NTU,Aerospace Engineering,3770,3500,9
+2014,NUS,Bachelor of Science (Pharmacy) (Hons) ,3630,3500,10
+2014,SMU,Business Management (Cum Laude and above),3600,3580,11
+2014,NUS,Bachelor of Engineering (Industrial and Systems Engineering),3600,3200,12
+2014,SMU,Social Sciences (Cum Laude and above),3590,3200,13
+2014,NUS,Bachelor of Business Administration (Hons),3520,3200,14
+2014,SIT,Bachelor of Science with Honours in Nursing Practice,3511,0,15
+2014,SIT,Bachelor of Engineering with Honours in Naval Architecture,3500,0,16
+2014,SMU,Accountancy (Cum Laude and above),3500,3000,17
+2014,SMU,Economics,3500,3339,18
+2014,NUS,Bachelor of Computing (Computer Science),3500,3425,19
+2014,NUS,Bachelor of Computing (Information Systems),3500,3005,20
+2014,NUS,Bachelor of Engineering (Computer Engineering),3500,3200,21
+2014,NUS,Bachelor of Science (Nursing) (Hons),3500,3025,22
+2014,NTU,Arts (with Education),3475,3498,23
+2014,NTU,Science (with Education),3475,3498,24
+2014,NTU,Business and Computing,3450,3400,25
+2014,NTU,Chemical and Biomolecular Engineering,3400,3200,26
+2014,NTU,Computer Engineering,3400,3175,27
+2014,NUS,Bachelor of Engineering (Engineering Science),3400,3000,28
+2014,SMU,Information Systems Management,3350,3300,29
+2014,SIT,Bachelor of Engineering with Honours in Chemical Engineering,3300,0,30
+2014,SIT,Bachelor of Engineering with Honours in Offshore Engineering,3300,0,31
+2014,NTU,Accountancy and Business,3300,3350,32
+2014,NUS,Bachelor of Arts (Hons),3300,3200,33
+2014,NUS,Bachelor of Engineering (Chemical Engineering),3300,3175,34
+2014,NUS,Bachelor of Engineering (Electrical Engineering),3300,3200,35
+2014,NUS,Bachelor of Engineering (Materials Science and Engineering),3300,3000,36
+2014,SIT,Bachelor of Engineering with Honours in Marine Engineering,3260,0,37
+2014,SIT,Bachelor of Engineering with Honours in Mechanical Design Engineering,3250,0,38
+2014,NUS,Bachelor of Social Sciences,3250,3200,39
+2014,NTU,Linguistics and Multilingual Studies,3230,2625,40
+2014,NUS,Bachelor of Engineering (Environmental Engineering),3230,3110,41
+2014,NUS,Bachelor of Science (Hons),3210,3100,42
+2014,NUS,Bachelor of Engineering (Civil Engineering),3208,3050,43
+2014,SIT,Bachelor in Science (Physiotherapy),3200,0,44
+2014,SIT,Bachelor of Science in Chemical Engineering,3200,0,45
+2014,NTU,Computer Science,3200,3125,46
+2014,NTU,Economics,3200,3000,47
+2014,NTU,Electrical and Electronic Engineering,3200,3100,48
+2014,NTU,Information Engineering and Media,3200,3200,49
+2014,NTU,Mathematical Sciences,3200,3000,50
+2014,NTU,Mathematics and Economics,3200,0,51
+2014,NUS,Bachelor of Computing (Electronic Commerce),3200,3080,52
+2014,NUS,Bachelor of Engineering (Mechanical Engineering),3200,3225,53
+2014,NUS,Bachelor of Science (Nursing),3200,2950,54
+2014,SIT,Bachelor of Engineering with Honours in Aerospace Systems,3150,0,55
+2014,NTU,Materials Engineering,3150,3000,56
+2014,SIT,Bachelor in Science (Occupational Therapy),3100,0,57
+2014,SIT,Bachelor of Engineering with Honours in Mechanical Design and Manufacturing Engineering,3100,0,58
+2014,SIT,Bachelor of Engineering with Honours in Mechatronics,3100,0,59
+2014,NTU,Business,3100,3000,60
+2014,NTU,Chemistry and Biological Chemistry,3100,3100,61
+2014,NTU,Civil Engineering,3100,3100,62
+2014,NTU,English,3100,3100,63
+2014,NTU,Mechanical Engineering,3100,3100,64
+2014,NTU,Physics and Applied Physics,3100,3300,65
+2014,NTU,Psychology,3100,3000,66
+2014,NTU,Sociology,3100,3100,67
+2014,NUS,Bachelor of Computing (Communications and Media),3088,3050,68
+2014,NTU,Maritime Studies,3050,3000,69
+2014,SIT,Bachelor of Engineering with Honours in Aeronautical Engineering,3000,0,70
+2014,SIT,Bachelor of Science in Computer Science in Real-Time Interactive Simulation,3000,0,71
+2014,SIT,Bachelor of Science in Electrical Engineering and Information Technology,3000,0,72
+2014,SMU,Social Sciences,3000,3000,73
+2014,NTU,Bioengineering,3000,3125,74
+2014,NTU,Biological Sciences,3000,3000,75
+2014,NTU,Chinese,3000,3000,76
+2014,NTU,Communication Studies,3000,3000,77
+2014,NTU,Environmental Engineering,3000,3000,78
+2014,NTU,Sports Science and Management,3000,3000,79
+2014,NUS,Bachelor of Business Administration,3000,3000,80
+2014,NUS,Bachelor of Engineering (Biomedical Engineering),3000,3000,81
+2014,NUS,Bachelor of Science,3000,2800,82
+2014,NUS,Bachelor of Science (Project and Facilities Management),3000,3000,83
+2014,NUS,Bachelor of Science (Real Estate),3000,2900,84
+2014,SIT,Bachelor of Science in Computer Science and Game Design,2975,0,85
+2014,NUS,Bachelor of Business Administration (Accountancy) (Hons),2912,2800,86
+2014,NTU,Biomedical Sciences and Chinese Medicine ,2900,2807,87
+2014,NTU,Accountancy,2840,2700,88
+2014,NUS,Bachelor of Business Administration (Accountancy),2838,2700,89
+2014,SIT,Bachelor of Science with Honours in Food and Human Nutrition,2800,0,90
+2014,NUS,Bachelor of Applied Science (Hons),2800,2900,91
+2014,NUS,Bachelor of Arts,2800,2800,92
+2014,SIT,Bachelor of Arts in Game Design,2700,0,93
+2014,NTU,"Art, Design and Media",2700,2500,94
+2014,SIT,Bachelor of Fine Arts in Digital Arts and Animation,2600,0,95
+2014,SIT,Bachelor of Science in Early Childhood Education,2600,0,96
+2014,NUS,Bachelor of Arts (Industrial Design),2565,2650,97
+2014,SIT,Bachelor of Arts with Honours in Communication Design,2500,0,98
+2014,SIT,Bachelor of Arts with Honours in Interior Design,2500,0,99
+2014,SIT,Bachelor of Professional Studies in Culinary Arts Management,2500,0,100
+2014,SIT,Bachelor of Science (Major in Hospitality Management),2500,0,101
+2014,NTU,Biomedical Sciences **,na,na,na
+2014,NUS,Bachelor of Applied Science **,na,na,na
+2014,NUS,Bachelor of Computing (Computational Biology) **,na,na,na
+2014,NUS,Bachelor of Computing (Computer Engineering) **,na,na,na
+2014,NUS,Bachelor of Music **,na,na,na
+2014,NUS,Bachelor of Science (Computational Biology) **,na,na,na
+2015,SMU,Law (Cum Laude and above) ,5000,5800,1
+2015,NUS,Bachelor of Medicine and Bachelor of Surgery ,4900,5000,2
+2015,SMU,Law ,4731,5025,3
+2015,NUS,Bachelor of Laws ,4700,5150,4
+2015,NTU,Business and Computing,4583,3450,5
+2015,NUS,Bachelor of Arts (Architecture) ,4127,4275,6
+2015,NUS,Bachelor of Dental Surgery,4000,4000,7
+2015,NUS,Bachelor of Engineering (Computer Engineering),4000,3500,8
+2015,SUTD,Bachelor of Engineering (Information Systems Technology and Design),3950,0,9
+2015,SMU,Business Management (Cum Laude and above),3868,3600,10
+2015,SMU,Economics (Cum Laude and above),3850,3800,11
+2015,SMU,Information Systems Management (Cum Laude and above),3800,4050,12
+2015,NUS,Bachelor of Business Administration (Hons),3800,3520,13
+2015,NUS,Bachelor of Engineering (Engineering Science),3800,3400,14
+2015,NTU,Accountancy and Business,3770,3300,15
+2015,NTU,Aerospace Engineering,3700,3770,16
+2015,NUS,Bachelor of Computing (Computer Science),3700,3500,17
+2015,SIT,Bachelor of Science with Honours in Nursing Practice,3615,3511,18
+2015,SUTD,Bachelor of Engineering (Engineering Product Development),3600,0,19
+2015,SMU,Social Sciences (Cum Laude and above),3560,3590,20
+2015,NUS,Bachelor of Computing (Information Systems),3550,3500,21
+2015,NTU,Science (with Education),3504,3475,22
+2015,SUTD,Bachelor of Engineering (Engineering Systems and Design),3500,0,23
+2015,SMU,Economics,3500,3500,24
+2015,SMU,Information Systems Management,3500,3350,25
+2015,NTU,Arts (with Education),3500,3475,26
+2015,NTU,Computer Engineering,3500,3400,27
+2015,NUS,Bachelor of Computing (Communications and Media),3500,3088,28
+2015,NUS,Bachelor of Engineering (Chemical Engineering),3500,3300,29
+2015,NUS,Bachelor of Engineering (Industrial and Systems Engineering),3500,3600,30
+2015,NUS,Bachelor of Environmental Studies,3500,0,31
+2015,NUS,Bachelor of Science (Pharmacy) (Hons) ,3500,3630,32
+2015,SIT,Bachelor in Science (Diagnostic Radiography),3488,0,33
+2015,NUS,Bachelor of Engineering (Environmental Engineering),3450,3230,34
+2015,NUS,Bachelor of Science (Nursing) (Hons),3435,3500,35
+2015,NUS,Bachelor of Science (Nursing),3400,3200,36
+2015,SIT,Bachelor of Engineering with Honours in Offshore Engineering,3350,3300,37
+2015,NUS,Bachelor of Engineering (Civil Engineering),3350,3208,38
+2015,NUS,Bachelor of Engineering (Materials Science and Engineering),3350,3300,39
+2015,NTU,English,3314,3100,40
+2015,NUS,Bachelor of Arts (Hons),3310,3300,41
+2015,NUS,Bachelor of Social Sciences,3310,3250,42
+2015,SIT,Bachelor of Engineering with Honours in Electrical Power Engineering,3300,0,43
+2015,SIT,Bachelor of Science with Honours in Computing Science,3300,0,44
+2015,SMU,Business Management,3300,0,45
+2015,NTU,Chemical and Biomolecular Engineering,3300,3400,46
+2015,NTU,Computer Science,3300,3200,47
+2015,NTU,Economics,3300,3200,48
+2015,NTU,Electrical and Electronic Engineering,3300,3200,49
+2015,NTU,Environmental Engineering,3300,3000,50
+2015,NUS,Bachelor of Computing (Electronic Commerce),3300,3200,51
+2015,NUS,Bachelor of Engineering (Biomedical Engineering),3300,3000,52
+2015,NUS,Bachelor of Engineering (Electrical Engineering),3300,3300,53
+2015,NUS,Bachelor of Engineering (Mechanical Engineering),3300,3200,54
+2015,NUS,Bachelor of Music,3300,0,55
+2015,NUS,Bachelor of Science (Hons),3300,3210,56
+2015,NTU,Sports Science and Management,3295,3000,57
+2015,NTU,Information Engineering and Media,3275,3200,58
+2015,SIT,Bachelor of Engineering with Honours in Chemical Engineering,3250,3300,59
+2015,SIT,Bachelor of Engineering with Honours in Mechanical Design Engineering,3250,3250,60
+2015,SIT,Bachelor of Science in Electrical Engineering and Information Technology,3250,3000,61
+2015,NTU,Mechanical Engineering,3250,3100,62
+2015,NTU,Mathematical Sciences,3240,3200,63
+2015,SIT,Bachelor of Science in Computer Science in Real-Time Interactive Simulation,3233,3000,64
+2015,SIT,Bachelor of Engineering with Honours in Marine Engineering,3225,3260,65
+2015,SIT,Bachelor in Science (Physiotherapy),3222,3200,66
+2015,NTU,Mathematics and Economics,3205,3200,67
+2015,SIT,Bachelor of Engineering with Honours in Mechanical Design and Manufacturing Engineering,3200,3100,68
+2015,SMU,Accountancy (Cum Laude and above),3200,3500,69
+2015,SMU,Social Sciences,3200,3000,70
+2015,NTU,Business,3200,3100,71
+2015,NTU,Chinese,3200,3000,72
+2015,NTU,Civil Engineering,3200,3100,73
+2015,NTU,Maritime Studies,3200,3050,74
+2015,NTU,Materials Engineering,3200,3150,75
+2015,NTU,Physics and Applied Physics,3200,3100,76
+2015,NTU,Psychology,3200,3100,77
+2015,NTU,Biological Sciences,3190,3000,78
+2015,SIT,Bachelor of Engineering with Honours in Naval Architecture,3141,3500,79
+2015,SIT,Bachelor in Science (Occupational Therapy),3125,3100,80
+2015,NTU,Sociology,3125,3100,81
+2015,NTU,Bioengineering,3113,3000,82
+2015,SIT,Bachelor of Engineering with Honours in Mechatronics,3100,3100,83
+2015,NUS,Bachelor of Applied Science (Hons),3100,2800,84
+2015,NUS,Bachelor of Science (Real Estate),3100,3000,85
+2015,SIT,Bachelor of Engineering with Honours in Aeronautical Engineering,3000,3000,86
+2015,SIT,Bachelor of Engineering with Honours in Aerospace Systems,3000,3150,87
+2015,SMU,Accountancy,3000,0,88
+2015,NTU,Chemistry and Biological Chemistry,3000,3100,89
+2015,NTU,Communication Studies,3000,3000,90
+2015,NTU,Linguistics and Multilingual Studies,3000,3230,91
+2015,NUS,Bachelor of Arts,3000,2800,92
+2015,NUS,Bachelor of Arts (Industrial Design),3000,2565,93
+2015,NUS,Bachelor of Business Administration,3000,3000,94
+2015,NUS,Bachelor of Business Administration (Accountancy) (Hons),3000,2912,95
+2015,NUS,Bachelor of Science,3000,3000,96
+2015,NUS,Bachelor of Science (Project and Facilities Management),3000,3000,97
+2015,SIT,Bachelor of Science in Chemical Engineering,2950,3200,98
+2015,NTU,Accountancy,2875,2840,99
+2015,NUS,Bachelor of Business Administration (Accountancy),2850,2838,100
+2015,NTU,"Art, Design and Media",2800,2700,101
+2015,NTU,Biomedical Sciences and Chinese Medicine ,2800,2900,102
+2015,SIT,Bachelor of Arts with Honours in Communication Design,2750,2500,103
+2015,SIT,Bachelor of Arts with Honours in Interior Design,2700,2500,104
+2015,SIT,Bachelor of Fine Arts in Digital Arts and Animation,2700,2600,105
+2015,SIT,Bachelor of Science in Early Childhood Education,2700,2600,106
+2015,SIT,Bachelor of Science with Honours in Food and Human Nutrition,2700,2800,107
+2015,SIT,Bachelor of Science (Major in Hospitality Management),2548,2500,108
+2015,SIT,Bachelor of Professional Studies in Culinary Arts Management,2400,2500,109
+2015,SIT,Bachelor in Science (Radiation Therapy) **,na,na,na
+2015,SIT,Bachelor of Arts in Game Design **,na,na,na
+2015,SIT,Bachelor of Science in Computer Science and Game Design **,na,na,na
+2015,SUTD,Bachelor of Science (Architecture and Sustainable Design) ,na,na,na
+2015,NTU,Aerospace Engineering and Economics **,na,na,na
+2015,NTU,Business and Computer Engineering **,na,na,na
+2015,NTU,Chemical and Biomolecular Engineering and Economics **,na,na,na
+2015,NTU,Environmental Engineering and Economics **,na,na,na
+2015,NTU,Information Engineering and Media and Economics **,na,na,na
+2015,NTU,Mechanical Engineering and Economics **,na,na,na
+2015,NUS,Bachelor of Applied Science **,na,na,na
+2015,NUS,Bachelor of Computing (Computational Biology) **,na,na,na
+2015,NUS,Bachelor of Computing (Computer Engineering) **,na,na,na
+2015,NUS,Bachelor of Science (Computational Biology) **,na,na,na
+2016,SMU,Law (Cum Laude and above) ,5300,5000,1
+2016,NUS,Bachelor of Medicine and Bachelor of Surgery ,5000,4900,2
+2016,NUS,Bachelor of Laws ,4900,4700,3
+2016,SMU,Law ,4850,4731,4
+2016,NTU,Business and Computing,4600,4583,5
+2016,SIT,Bachelor of Arts with Honours in Criminology and Security,4200,0,6
+2016,SMU,Information Systems Management (Cum Laude and above),4167,3800,7
+2016,SMU,Economics (Cum Laude and above),4107,3850,8
+2016,NUS,Bachelor of Dental Surgery,4050,4000,9
+2016,SIT,Bachelor of Science in Computer Science in Real-Time Interactive Simulation,4000,3233,10
+2016,SUTD,Bachelor of Engineering (Information Systems Technology and Design),4000,3950,11
+2016,NUS,Bachelor of Arts (Architecture) ,4000,4127,12
+2016,NUS,Bachelor of Computing (Computer Science),4000,3700,13
+2016,NUS,Bachelor of Computing (Information Systems),4000,3550,14
+2016,NUS,Bachelor of Engineering (Computer Engineering),3900,4000,15
+2016,SIT,Bachelor of Engineering with Honours in Marine Engineering,3840,3225,16
+2016,NUS,Bachelor of Engineering (Engineering Science),3740,3800,17
+2016,SMU,Economics,3700,3500,18
+2016,NTU,Aerospace Engineering,3675,3700,19
+2016,SIT,Bachelor in Science (Diagnostic Radiography),3660,3488,20
+2016,SMU,Business Management (Cum Laude and above),3660,3868,21
+2016,SUTD,Bachelor of Engineering (Engineering Systems and Design),3650,3500,22
+2016,NUS,Bachelor of Business Administration (Hons),3620,3800,23
+2016,SIT,Bachelor of Science with Honours in Computing Science,3600,3300,24
+2016,SIT,Bachelor of Science with Honours in Nursing Practice,3600,3615,25
+2016,SUTD,Bachelor of Engineering (Engineering Product Development),3600,3600,26
+2016,SMU,Accountancy (Cum Laude and above),3600,3200,27
+2016,SMU,Information Systems Management,3600,3500,28
+2016,NUS,Bachelor of Science (Pharmacy)(Hons) ,3600,3500,29
+2016,NUS,Bachelor of Engineering (Materials Science and Engineering),3540,3350,30
+2016,NTU,Arts (with Education),3525,3500,31
+2016,NTU,Science (with Education),3525,3504,32
+2016,SMU,Business Management,3500,3300,33
+2016,NTU,Accountancy and Business,3500,3770,34
+2016,NTU,Computer Engineering,3500,3500,35
+2016,NTU,Computer Science,3500,3300,36
+2016,NTU,Mathematical Sciences,3500,3240,37
+2016,NTU,Sociology,3500,3125,38
+2016,NUS,Bachelor of Arts (Hons),3500,3310,39
+2016,NUS,Bachelor of Engineering (Electrical Engineering),3500,3300,40
+2016,NUS,Bachelor of Engineering (Industrial and Systems Engineering),3500,3500,41
+2016,NUS,Bachelor of Science (Nursing) (Hons),3500,3435,42
+2016,NTU,Physics and Applied Physics,3450,3200,43
+2016,NUS,Bachelor of Engineering (Chemical Engineering),3450,3500,44
+2016,SIT,Bachelor of Engineering with Honours in Offshore Engineering,3430,3350,45
+2016,NUS,Bachelor of Engineering (Civil Engineering),3420,3350,46
+2016,SIT,Bachelor of Science in Computer Science and Game Design,3400,2975,47
+2016,SMU,Social Sciences (Cum Laude and above),3400,3560,48
+2016,NTU,Chemical and Biomolecular Engineering,3400,3300,49
+2016,NTU,Electrical and Electronic Engineering,3400,3300,50
+2016,NUS,Bachelor of Engineering (Mechanical Engineering),3400,3300,51
+2016,NUS,Bachelor of Science (Nursing),3400,3400,52
+2016,NTU,Maritime Studies,3398,3200,53
+2016,NTU,Linguistics and Multilingual Studies,3365,3000,54
+2016,NTU,Information Engineering and Media,3350,3275,55
+2016,NTU,Mechanical Engineering,3350,3250,56
+2016,NUS,Bachelor of Engineering (Environmental Engineering),3350,3450,57
+2016,SIT,Bachelor in Science (Physiotherapy),3300,3222,58
+2016,SIT,Bachelor of Engineering with Honours in Chemical Engineering,3300,3250,59
+2016,SIT,Bachelor of Engineering with Honours in Mechatronics,3300,3100,60
+2016,SIT,Bachelor of Engineering with Honours in Naval Architecture,3300,3141,61
+2016,NTU,Business,3300,3200,62
+2016,NTU,Chinese,3300,3200,63
+2016,NTU,Civil Engineering,3300,3200,64
+2016,NTU,Economics,3300,3300,65
+2016,NTU,Materials Engineering,3300,3200,66
+2016,NTU,Mathematics and Economics,3300,3205,67
+2016,NUS,Bachelor of Environmental Studies,3300,3500,68
+2016,NUS,Bachelor of Science (Hons),3300,3300,69
+2016,NUS,Bachelor of Social Sciences,3300,3310,70
+2016,SIT,Bachelor of Engineering with Honours in Aerospace Systems,3275,3000,71
+2016,NUS,Bachelor of Music,3250,3300,72
+2016,NTU,Bioengineering,3237,3113,73
+2016,SIT,Bachelor in Science (Occupational Therapy),3200,3125,74
+2016,SIT,Bachelor of Engineering with Honours in Aeronautical Engineering,3200,3000,75
+2016,SIT,Bachelor of Engineering with Honours in Electrical Power Engineering,3200,3300,76
+2016,SIT,Bachelor of Engineering with Honours in Mechanical Design and Manufacturing Engineering,3200,3200,77
+2016,SIT,Bachelor of Engineering with Honours in Mechanical Design Engineering,3200,3250,78
+2016,NTU,Psychology,3200,3200,79
+2016,NTU,Sports Science and Management,3200,3295,80
+2016,NUS,Bachelor of Engineering (Biomedical Engineering),3200,3300,81
+2016,NUS,Bachelor of Science (Real Estate),3200,3100,82
+2016,NTU,Biological Sciences,3175,3190,83
+2016,NTU,Chemistry and Biological Chemistry,3149,3000,84
+2016,SMU,Social Sciences,3145,3200,85
+2016,SIT,Bachelor of Science in Chemical Engineering,3130,2950,86
+2016,NUS,Bachelor of Applied Science (Hons),3130,3100,87
+2016,NTU,Environmental Engineering,3100,3300,88
+2016,NUS,Bachelor of Business Administration (Accountancy) (Hons),3075,3000,89
+2016,SIT,Bachelor of Fine Arts in Digital Arts and Animation,3000,2700,90
+2016,SIT,Bachelor of Science in Electrical Engineering and Information Technology,3000,3250,91
+2016,SMU,Accountancy,3000,3000,92
+2016,NTU,Communication Studies,3000,3000,93
+2016,NTU,English,3000,3314,94
+2016,NTU,History,3000,0,95
+2016,NUS,Bachelor of Arts,3000,3000,96
+2016,NUS,Bachelor of Arts (Industrial Design),3000,3000,97
+2016,NUS,Bachelor of Business Administration,3000,3000,98
+2016,NUS,Bachelor of Science,3000,3000,99
+2016,NUS,Bachelor of Science (Project and Facilities Management),3000,3000,100
+2016,NUS,Bachelor of Business Administration (Accountancy),2963,2850,101
+2016,NTU,Accountancy,2900,2875,102
+2016,SIT,Bachelor of Science in Early Childhood Education,2700,2700,103
+2016,NTU,"Art, Design and Media",2700,2800,104
+2016,SIT,Bachelor of Arts with Honours in Communication Design,2600,2750,105
+2016,SIT,Bachelor of Science with Honours in Food and Human Nutrition,2600,2700,106
+2016,SIT,Bachelor of Arts with Honours in Interior Design,2515,2700,107
+2016,NTU,Biomedical Sciences and Chinese Medicine ,2500,2800,108
+2016,SIT,Bachelor of Professional Studies in Culinary Arts Management,2300,2400,109
+2016,SIT,Bachelor in Science (Radiation Therapy) **,na,na,na
+2016,SIT,Bachelor of Arts in Game Design **,na,na,na
+2016,SUTD,Bachelor of Science (Architecture and Sustainable Design) ,na,na,na
+2016,NTU,Aerospace Engineering and Economics **,na,na,na
+2016,NTU,Business and Computer Engineering **,na,na,na
+2016,NTU,Materials Engineering and Economics **,na,na,na
+2016,NTU,Mechanical Engineering and Economics **,na,na,na
+2016,NTU,Public Policy and Global Affairs **,na,na,na
+2016,NUS,Bachelor of Applied Science **,na,na,na
+2016,NUS,Bachelor of Computing (Communications and Media) **,na,na,na
+2016,NUS,Bachelor of Computing (Electronic Commerce) **,na,na,na
+2016,NUS,Bachelor of Science (Computational Biology) **,na,na,na
+2017,SMU,Law (Cum Laude and above) ,5600,5300,1
+2017,SMU,Law ,5000,4850,2
+2017,NUS,Bachelor of Laws ,5000,4900,3
+2017,NUS,Bachelor of Medicine and Bachelor of Surgery ,5000,5000,4
+2017,SMU,Information Systems Management (Cum Laude and above),4334,4167,5
+2017,NUS,Bachelor of Computing (Computer Science),4285,4000,6
+2017,SMU,Economics (Cum Laude and above),4100,4107,7
+2017,NUS,Bachelor of Dental Surgery,4050,4050,8
+2017,SUTD,Bachelor of Engineering (Information Systems Technology and Design),4023,4000,9
+2017,SMU,Business Management (Cum Laude and above),4000,3660,10
+2017,SMU,Information Systems Management,4000,3600,11
+2017,NUS,Bachelor of Arts (Architecture) ,4000,4000,12
+2017,NUS,Bachelor of Computing (Information Systems),4000,4000,13
+2017,NUS,Bachelor of Science (Business Analytics),4000,0,14
+2017,NUS,Bachelor of Engineering (Computer Engineering),3900,3900,15
+2017,NUS,Bachelor of Engineering (Industrial and Systems Engineering),3875,3500,16
+2017,SUTD,Bachelor of Engineering (Engineering Systems and Design),3850,3650,17
+2017,NTU,Computer Science,3850,3500,18
+2017,SIT,Bachelor of Arts with Honours in Criminology and Security,3800,4200,19
+2017,SIT,Bachelor of Science in Computer Science in Real-Time Interactive Simulation,3800,4000,20
+2017,NUS,Bachelor of Business Administration (Hons),3800,3620,21
+2017,SMU,Economics,3700,3700,22
+2017,NTU,Information Engineering and Media,3700,3350,23
+2017,NUS,Bachelor of Engineering (Engineering Science),3675,3740,24
+2017,SIT,Bachelor of Science with Honours in Nursing Practice,3650,3600,25
+2017,NTU,Environmental Engineering,3635,3100,26
+2017,SMU,Social Sciences (Cum Laude and above),3630,3400,27
+2017,SIT,Bachelor of Science with Honours in Computing Science,3600,3600,28
+2017,SUTD,Bachelor of Engineering (Engineering Product Development),3600,3600,29
+2017,NTU,Arts (with Education),3600,3525,30
+2017,NTU,Computer Engineering,3600,3500,31
+2017,NTU,Electrical and Electronic Engineering,3600,3400,32
+2017,NUS,Bachelor of Engineering (Chemical Engineering),3600,3450,33
+2017,NUS,Bachelor of Engineering (Electrical Engineering),3600,3500,34
+2017,NUS,Bachelor of Science (Pharmacy) ,3600,0,35
+2017,SIT,Bachelor of Engineering with Honours in Marine Engineering ,3500,3250,36
+2017,SMU,Business Management,3500,3500,37
+2017,NTU,Aerospace Engineering,3500,3675,38
+2017,NTU,Chemical and Biomolecular Engineering,3500,3400,39
+2017,NTU,Mathematical Sciences,3500,3500,40
+2017,NUS,Bachelor of Arts with Honours,3500,0,41
+2017,NUS,Bachelor of Business Administration,3500,3000,42
+2017,NUS,Bachelor of Science (Nursing) (Hons),3500,3500,43
+2017,NTU,Mechanical Engineering,3450,3350,44
+2017,NTU,Sports Science and Management,3450,3200,45
+2017,NUS,Bachelor of Engineering (Mechanical Engineering),3450,3400,46
+2017,NTU,Bioengineering,3419,3237,47
+2017,SIT,Bachelor in Science (Physiotherapy),3400,3300,48
+2017,SIT,Bachelor of Engineering with Honours in Mechatronics,3400,3300,49
+2017,SIT,Bachelor of Science in Electrical Engineering and Information Technology,3400,3000,50
+2017,NTU,Civil Engineering,3400,3300,51
+2017,NTU,Mathematics and Economics,3400,3300,52
+2017,NUS,Bachelor of Science (Nursing),3400,3400,53
+2017,NTU,Public Policy and Global Affairs,3395,0,54
+2017,NUS,Bachelor of Engineering (Materials Science and Engineering),3388,3540,55
+2017,NTU,Materials Engineering,3375,3300,56
+2017,NUS,Bachelor of Arts (Hons),3360,3500,57
+2017,NUS,Bachelor of Engineering (Environmental Engineering),3350,3350,58
+2017,NTU,Maritime Studies,3320,3398,59
+2017,SIT,Bachelor in Science (Occupational Therapy),3300,3200,60
+2017,SIT,Bachelor of Engineering with Honours in Naval Architecture ,3300,3300,61
+2017,SIT,Bachelor of Engineering with Honours in Offshore Engineering ,3300,3430,62
+2017,SMU,Social Sciences,3300,3145,63
+2017,NTU,Business,3300,3300,64
+2017,NTU,Chinese,3300,3300,65
+2017,NTU,Physics and Applied Physics,3300,3450,66
+2017,NUS,Bachelor of Engineering (Biomedical Engineering),3300,3200,67
+2017,NUS,Bachelor of Engineering (Civil Engineering),3300,3420,68
+2017,NUS,Bachelor of Environmental Studies,3300,3300,69
+2017,NUS,Bachelor of Science (Hons),3300,3300,70
+2017,NUS,Bachelor of Social Sciences,3300,3300,71
+2017,SIT,Bachelor of Engineering with Honours in Chemical Engineering,3255,3300,72
+2017,SIT,Bachelor of Science in Computer Science and Game Design ,3250,3400,73
+2017,NTU,Economics,3240,3300,74
+2017,NTU,Sociology,3228,3500,75
+2017,SIT,Bachelor of Engineering with Honours in Aeronautical Engineering,3200,3200,76
+2017,SIT,Bachelor of Engineering with Honours in Electrical Power Engineering,3200,3200,77
+2017,SIT,Bachelor of Engineering with Honours in Mechanical Design Engineering,3200,3200,78
+2017,SIT,Bachelor of Science in Chemical Engineering,3200,3130,79
+2017,SMU,Accountancy (Cum Laude and above),3200,3600,80
+2017,NTU,Biological Sciences,3200,3175,81
+2017,NTU,History,3200,3000,82
+2017,NTU,Psychology,3200,3200,83
+2017,SIT,Bachelor of Engineering with Honours in Aerospace Systems,3125,3275,84
+2017,NUS,Bachelor of Business Administration (Accountancy) (Hons),3125,3075,85
+2017,NTU,Chemistry and Biological Chemistry,3100,3149,86
+2017,NTU,Linguistics and Multilingual Studies,3100,3365,87
+2017,SIT,Bachelor of Accountancy with Honours,3088,0,88
+2017,NUS,Bachelor of Applied Science (Hons),3085,3130,89
+2017,NUS,Bachelor of Science,3082,3000,90
+2017,NUS,Bachelor of Business Administration (Accountancy),3025,2963,91
+2017,SIT,Bachelor of Arts in Game Design ,3000,2700,92
+2017,SIT,Bachelor of Engineering with Honours in Mechanical Design and Manufacturing Engineering,3000,3200,93
+2017,SMU,Accountancy,3000,3000,94
+2017,NTU,Accountancy,3000,2900,95
+2017,NTU,Communication Studies,3000,3000,96
+2017,NTU,English,3000,3000,97
+2017,NUS,Bachelor of Arts,3000,3000,98
+2017,NUS,Bachelor of Science (Project and Facilities Management),3000,3000,99
+2017,NUS,Bachelor of Science (Real Estate),3000,3200,100
+2017,NUS,Bachelor of Arts (Industrial Design),2920,3000,101
+2017,SIT,Bachelor of Science in Early Childhood Education,2900,2700,102
+2017,SIT,Bachelor of Fine Arts in Digital Arts and Animation ,2875,3150,103
+2017,SIT,Bachelor of Hospitality Business with Honours ,2800,3000,104
+2017,NTU,"Art, Design and Media",2800,2700,105
+2017,SIT,Bachelor of Arts with Honours in Communication Design,2700,2600,106
+2017,SIT,Bachelor of Arts with Honours in Interior Design,2700,2515,107
+2017,SIT,Bachelor of Science with Honours in Food and Human Nutrition,2700,2600,108
+2017,SIT,Bachelor of Professional Studies in Culinary Arts Management,2300,2300,109
+2017,NUS,Bachelor of Music,2225,3250,110
+2017,SIT,Bachelor in Science (Diagnostic Radiography) **,na,na,na
+2017,SIT,Bachelor in Science (Radiation Therapy) **,na,na,na
+2017,SUTD,Bachelor of Science (Architecture and Sustainable Design) ,na,na,na
+2017,NTU,Philosophy **,na,na,na
+2017,NUS,Bachelor of Applied Science **,na,na,na
+2017,NUS,Bachelor of Computing (Communications and Media) **,na,na,na
+2017,NUS,Bachelor of Computing (Computational Biology) **,na,na,na
+2017,NUS,Bachelor of Computing (Electronic Commerce) **,na,na,na
+2017,NUS,Bachelor of Computing (Information Security) **,na,na,na
+2017,NUS,Bachelor of Science (Computational Biology) **,na,na,na
+2018,SMU,Law (Cum Laude and above) ,5513,5600,1
+2018,NUS,Bachelor of Laws ,5500,5000,2
+2018,SMU,Information Systems Management (Cum Laude and above),4685,4334,3
+2018,NTU,Business and Computing ,4575,4600,4
+2018,SMU,Law ,4500,5000,5
+2018,NUS,Bachelor of Science (Business Analytics),4500,4000,6
+2018,NUS,Bachelor of Computing (Information Systems),4458,4000,7
+2018,SUTD,Bachelor of Engineering (Information Systems Technology and Design),4400,4023,8
+2018,NUS,Bachelor of Computing (Computer Science),4320,4285,9
+2018,NUS,Bachelor of Dental Surgery,4050,4050,10
+2018,SIT,Bachelor of Engineering with Honours in Information and Communications Technology (Information Security) ,4045,4100,11
+2018,SIT,Bachelor of Science in Computer Science in Real-Time Interactive Simulation,4016,3800,12
+2018,SIT,Bachelor of Engineering with Honours in Information and Communications Technology (Software Engineering),4000,4045,13
+2018,SIT,Bachelor of Science with Honours in Computing Science,4000,3600,14
+2018,SUTD,Bachelor of Science (Architecture and Sustainable Design) ,4000,0,15
+2018,SMU,Business Management (Cum Laude and above),4000,4000,16
+2018,SMU,Economics (Cum Laude and above),4000,4100,17
+2018,SMU,Information Systems Management,4000,4000,18
+2018,NTU,Accountancy and Business,4000,3500,19
+2018,NTU,Computer Science,4000,3850,20
+2018,NUS,Bachelor of Engineering (Chemical Engineering),4000,3600,21
+2018,NUS,Bachelor of Engineering (Computer Engineering),3975,3900,22
+2018,NUS,Bachelor of Business Administration (Hons),3895,3800,23
+2018,NUS,Bachelor of Engineering (Industrial and Systems Engineering),3895,3875,24
+2018,SUTD,Bachelor of Engineering (Engineering Systems and Design),3800,3850,25
+2018,NTU,Aerospace Engineering,3800,3500,26
+2018,NTU,Arts (with Education),3800,3600,27
+2018,NTU,Science (with Education),3800,3525,28
+2018,NTU,Computer Engineering,3775,3600,29
+2018,NTU,Information Engineering and Media,3750,3700,30
+2018,SIT,Bachelor of Arts with Honours in Criminology and Security,3729,3800,31
+2018,SUTD,Bachelor of Engineering (Engineering Product Development),3700,3600,32
+2018,SMU,Business Management,3700,3500,33
+2018,SMU,Economics,3700,3700,34
+2018,NUS,Bachelor of Engineering (Electrical Engineering),3700,3600,35
+2018,NUS,Bachelor of Engineering (Mechanical Engineering),3700,3450,36
+2018,NTU,Mathematical Sciences,3650,3500,37
+2018,NUS,Bachelor of Science (Pharmacy) ,3650,3600,38
+2018,NUS,Bachelor of Arts with Honours,3630,3500,39
+2018,SIT,Bachelor of Engineering with Honours in Mechatronics,3600,3400,40
+2018,SIT,Bachelor of Science in Computer Science and Game Design ,3600,3250,41
+2018,SMU,Social Sciences (Cum Laude and above),3600,3630,42
+2018,NTU,Chemical and Biomolecular Engineering,3600,3500,43
+2018,NTU,Electrical and Electronic Engineering,3600,3600,44
+2018,NTU,Mathematics and Economics,3600,3400,45
+2018,NUS,Bachelor of Engineering (Materials Science and Engineering),3600,3388,46
+2018,SIT,Bachelor of Engineering with Honours in Sustainable Infrastructure Engineering (Land),3550,3500,47
+2018,SMU,Accountancy (Cum Laude and above),3550,3200,48
+2018,NUS,Bachelor of Science (Nursing) (Hons),3550,3500,49
+2018,NTU,Economics,3536,3240,50
+2018,SIT,Bachelor of Engineering with Honours in Offshore Engineering ,3510,3300,51
+2018,SIT,Bachelor of Engineering with Honours in Mechanical Design Engineering,3500,3200,52
+2018,SIT,Bachelor of Science in Electrical Engineering and Information Technology,3500,3400,53
+2018,SIT,Bachelor of Science with Honours in Nursing,3500,0,54
+2018,NTU,Bioengineering,3500,3419,55
+2018,NTU,Business,3500,3300,56
+2018,NTU,Chinese,3500,3300,57
+2018,NTU,Civil Engineering,3500,3400,58
+2018,NTU,History,3500,3200,59
+2018,NTU,Materials Engineering,3500,3375,60
+2018,NTU,Mechanical Engineering,3500,3450,61
+2018,NUS,Bachelor of Engineering (Civil Engineering),3500,3300,62
+2018,SIT,Bachelor in Science (Occupational Therapy),3460,3300,63
+2018,NUS,Bachelor of Science (Nursing),3450,3400,64
+2018,NTU,Environmental Earth Systems Sciences ,3440,0,65
+2018,NUS,Bachelor of Environmental Studies,3414,3300,66
+2018,SIT,Bachelor of Engineering with Honours in Naval Architecture ,3400,3300,67
+2018,SUSS,Bachelor of Science in Finance,3400,0,68
+2018,NTU,Environmental Engineering,3400,3635,69
+2018,NTU,Physics and Applied Physics,3400,3300,70
+2018,NUS,Bachelor of Engineering (Environmental Engineering),3400,3350,71
+2018,NUS,Bachelor of Science (Hons),3400,3300,72
+2018,NUS,Bachelor of Social Sciences,3400,3300,73
+2018,NUS,Bachelor of Engineering (Biomedical Engineering),3389,3300,74
+2018,SIT,Bachelor of Engineering with Honours in Aerospace Systems,3380,3125,75
+2018,NTU,Psychology,3370,3200,76
+2018,SIT,Bachelor in Science (Diagnostic Radiography) ,3350,0,77
+2018,NTU,Maritime Studies,3350,3320,78
+2018,NTU,Public Policy and Global Affairs,3350,3395,79
+2018,SIT,Bachelor of Engineering with Honours in Electrical Power Engineering,3343,3200,80
+2018,SIT,Bachelor in Science (Physiotherapy),3300,3400,81
+2018,SIT,Bachelor of Arts in Game Design ,3300,3000,82
+2018,SIT,Bachelor of Engineering with Honours in Chemical Engineering,3300,3255,83
+2018,NTU,Sports Science and Management,3300,3450,84
+2018,NUS,Bachelor of Arts (Hons),3300,3360,85
+2018,NUS,Bachelor of Science (Real Estate),3300,3000,86
+2018,SIT,Bachelor of Engineering with Honours in Mechanical Design and Manufacturing Engineering,3253,3000,87
+2018,SIT,Bachelor of Engineering with Honours in Marine Engineering,3250,3840,88
+2018,NTU,Biological Sciences,3250,3200,89
+2018,NUS,Bachelor of Arts (Industrial Design),3250,2920,90
+2018,NUS,Bachelor of Business Administration,3225,3500,91
+2018,NTU,Sociology,3220,3228,92
+2018,SMU,Social Sciences,3210,3300,93
+2018,SIT,Bachelor of Engineering with Honours in Aeronautical Engineering,3200,3200,94
+2018,SIT,Bachelor of Science in Chemical Engineering,3200,3200,95
+2018,NTU,Chemistry and Biological Chemistry,3200,3100,96
+2018,NTU,Linguistics and Multilingual Studies,3200,3100,97
+2018,NUS,Bachelor of Arts,3200,3000,98
+2018,NUS,Bachelor of Business Administration (Accountancy) (Hons),3200,3125,99
+2018,NUS,Bachelor of Science,3100,3082,100
+2018,SIT,Bachelor of Accountancy with Honours,3075,3088,101
+2018,NUS,Bachelor of Science (Project and Facilities Management),3060,3000,102
+2018,NUS,Bachelor of Business Administration (Accountancy),3020,3025,103
+2018,SUSS,Bachelor of Accountancy,3000,0,104
+2018,SUSS,Bachelor of Science in Marketing,3000,0,105
+2018,SMU,Accountancy,3000,3000,106
+2018,NTU,Accountancy,3000,3000,107
+2018,NTU,"Art, Design and Media",3000,2800,108
+2018,NTU,Biomedical Sciences and Chinese Medicine ,3000,2500,109
+2018,NTU,Communication Studies,3000,3000,110
+2018,NTU,English,3000,3000,111
+2018,NTU,Philosophy,3000,0,112
+2018,SIT,Bachelor of Arts with Honours in Communication Design,2950,2700,113
+2018,SIT,Bachelor of Science in Early Childhood Education,2925,2900,114
+2018,SIT,Bachelor of Science with Honours in Food and Human Nutrition,2900,2700,115
+2018,SIT,Bachelor of Hospitality Business with Honours,2825,0,116
+2018,SIT,Bachelor of Fine Arts in Digital Arts and Animation,2800,3000,117
+2018,SIT,Bachelor of Arts with Honours in Interior Design,2775,2700,118
+2018,SIT,Bachelor of Business Administration in Food Business Management,2663,0,119
+2018,NUS,Bachelor of Music,1800,2225,120
+2018,SIT,Bachelor in Science (Radiation Therapy) **,na,na,na
+2018,NTU,Aerospace Engineering and Economics **,na,na,na
+2018,NTU,Biomedical Sciences **,na,na,na
+2018,NTU,Business and Computer Engineering **,na,na,na
+2018,NTU,Chemical and Biomolecular Engineering and Economics **,na,na,na
+2018,NTU,Computer Engineering and Economics **,na,na,na
+2018,NTU,Environmental Engineering and Economics **,na,na,na
+2018,NTU,Medicine ,na,na,na
+2018,NUS,Bachelor of Arts (Architecture)  **,na,na,na
+2018,NUS,Bachelor of Computing (Communications and Media) **,na,na,na
+2018,NUS,Bachelor of Computing (Computational Biology) **,na,na,na
+2018,NUS,Bachelor of Computing (Electronic Commerce) **,na,na,na
+2018,NUS,Bachelor of Computing (Information Security) **,na,na,na
+2018,NUS,Bachelor of Engineering (Engineering Science) **,na,na,na
+2018,NUS,Bachelor of Medicine and Bachelor of Surgery ,na,na,na
+2018,NUS,Bachelor of Science (Computational Biology) **,na,na,na
+2019,NTU,Medicine ,5700,0,1
+2019,SMU,Law (Cum Laude and above) ,5550,5513,2
+2019,NUS,Bachelor of Laws ,5400,5500,3
+2019,NUS,Bachelor of Medicine and Bachelor of Surgery ,5237,5000,4
+2019,SMU,Information Systems Management (Cum Laude and above),5000,4685,5
+2019,NUS,Bachelor of Computing (Computer Science),5000,4320,6
+2019,NUS,Bachelor of Science (Business Analytics),5000,4500,7
+2019,SMU,Law ,4900,4500,8
+2019,NTU,Business and Computing ,4833,4575,9
+2019,SIT,Bachelor of Science in Computer Science in Real-Time Interactive Simulation,4400,4016,10
+2019,SUTD,Bachelor of Engineering (Information Systems Technology and Design),4400,4400,11
+2019,SMU,Information Systems Management,4300,4000,12
+2019,NUS,Bachelor of Computing (Information Systems),4228,4458,13
+2019,SIT,Bachelor of Science with Honours in Computing Science,4200,4000,14
+2019,NTU,Computer Science,4200,4000,15
+2019,NUS,Bachelor of Dental Surgery,4200,4050,16
+2019,SIT,Bachelor of Engineering with Honours in Information and Communications Technology (Software Engineering),4190,4000,17
+2019,SMU,Business Management (Cum Laude and above),4167,4000,18
+2019,NUS,Bachelor of Business Administration (Hons),4150,3895,19
+2019,SIT,Bachelor of Engineering with Honours in Information and Communications Technology (Information Security),4100,0,20
+2019,NUS,Bachelor of Arts (Architecture) ,4100,4000,21
+2019,SMU,Economics (Cum Laude and above),4038,4000,22
+2019,SUTD,Bachelor of Engineering (Engineering Product Development),4000,3700,23
+2019,SUTD,Bachelor of Engineering (Engineering Systems and Design),4000,3800,24
+2019,NTU,Accountancy and Business,4000,4000,25
+2019,NTU,Computer Engineering,4000,3775,26
+2019,NTU,Information Engineering and Media,4000,3750,27
+2019,NUS,Bachelor of Business Administration,4000,3225,28
+2019,NUS,Bachelor of Engineering (Computer Engineering),4000,3975,29
+2019,NUS,Bachelor of Engineering (Electrical Engineering),4000,3700,30
+2019,NUS,Bachelor of Engineering (Industrial and Systems Engineering),4000,3895,31
+2019,NUS,Bachelor of Engineering (Materials Science and Engineering),4000,3600,32
+2019,SIT,Bachelor of Engineering in Systems Engineering (ElectroMechanical Systems) ,3975,2625,33
+2019,NUS,Bachelor of Engineering (Chemical Engineering),3950,4000,34
+2019,SUTD,Bachelor of Science (Architecture and Sustainable Design) ,3900,4000,35
+2019,SMU,Economics,3900,3700,36
+2019,NTU,Public Policy and Global Affairs,3850,3350,37
+2019,SIT,Bachelor of Engineering with Honours in Sustainable Infrastructure Engineering (Land),3842,3550,38
+2019,SIT,Bachelor of Science in Computer Science and Game Design ,3800,3600,39
+2019,SIT,Bachelor of Science with Honours in Nursing,3800,3500,40
+2019,NTU,Aerospace Engineering,3800,3800,41
+2019,NTU,Arts (with Education),3800,3800,42
+2019,NTU,Chemical and Biomolecular Engineering,3800,3600,43
+2019,NTU,Science (with Education),3800,3800,44
+2019,SIT,Bachelor of Engineering with Honours in Telematics (Intelligent Transportation Systems Engineering),3750,0,45
+2019,SMU,Business Management,3750,3700,46
+2019,NUS,Bachelor of Engineering (Engineering Science) ,3750,3675,47
+2019,NUS,Bachelor of Science (Pharmacy) ,3750,3650,48
+2019,SIT,Bachelor of Engineering with Honours in Aerospace Systems,3700,3380,49
+2019,NTU,Electrical and Electronic Engineering,3700,3600,50
+2019,NTU,Mathematics and Economics,3700,3600,51
+2019,NUS,Bachelor of Engineering (Mechanical Engineering),3700,3700,52
+2019,SIT,Bachelor of Arts with Honours in Criminology and Security,3695,3729,53
+2019,NUS,Bachelor of Arts with Honours,3684,3630,54
+2019,SIT,Bachelor of Engineering with Honours in Pharmaceutical Engineering,3660,0,55
+2019,NUS,Bachelor of Science (Nursing) (Hons),3650,3550,56
+2019,SIT,Bachelor of Engineering with Honours in Mechatronics,3600,3600,57
+2019,SMU,Accountancy (Cum Laude and above),3600,3550,58
+2019,NTU,Business,3600,3500,59
+2019,NTU,Materials Engineering,3600,3500,60
+2019,NTU,Mechanical Engineering,3600,3500,61
+2019,NUS,Bachelor of Business Administration (Accountancy) (Hons),3600,3200,62
+2019,NUS,Bachelor of Engineering (Civil Engineering),3600,3500,63
+2019,NTU,Mathematical Sciences,3599,3650,64
+2019,NTU,Environmental Engineering,3510,3400,65
+2019,SIT,Bachelor of Engineering with Honours in Aeronautical Engineering,3500,3200,66
+2019,SIT,Bachelor of Engineering with Honours in Chemical Engineering,3500,3300,67
+2019,SIT,Bachelor of Engineering with Honours in Electrical Power Engineering ,3500,3343,68
+2019,SIT,Bachelor of Engineering with Honours in Mechanical Design Engineering,3500,3500,69
+2019,SIT,Bachelor of Engineering with Honours in Sustainable Infrastructure Engineering (Building Services),3500,0,70
+2019,SMU,Social Sciences,3500,3210,71
+2019,SMU,Social Sciences (Cum Laude and above),3500,3600,72
+2019,NTU,Bioengineering,3500,3500,73
+2019,NTU,Civil Engineering,3500,3500,74
+2019,NTU,Environmental Earth Systems Sciences ,3500,3440,75
+2019,NTU,History,3500,3500,76
+2019,NTU,Maritime Studies,3500,3350,77
+2019,NTU,Philosophy ,3500,3000,78
+2019,NTU,Physics and Applied Physics,3500,3400,79
+2019,NUS,Bachelor of Arts (Hons),3500,3300,80
+2019,NUS,Bachelor of Engineering (Biomedical Engineering),3500,3389,81
+2019,NUS,Bachelor of Music,3500,1800,82
+2019,NUS,Bachelor of Science (Hons) ,3500,3400,83
+2019,NUS,Bachelor of Social Sciences,3500,3400,84
+2019,SUSS,Bachelor of Science in Finance,3450,3400,85
+2019,SIT,Bachelor in Science (Occupational Therapy),3425,3460,86
+2019,SIT,Bachelor in Science (Physiotherapy),3400,3300,87
+2019,NTU,Chemistry and Biological Chemistry,3400,3200,88
+2019,NTU,Economics,3400,3536,89
+2019,NTU,Psychology,3400,3370,90
+2019,NUS,Bachelor of Engineering (Environmental Engineering),3400,3400,91
+2019,NUS,Bachelor of Science (Real Estate),3400,3300,92
+2019,NUS,Bachelor of Science (Nursing),3358,3450,93
+2019,NTU,Sports Science and Management,3350,3300,94
+2019,NUS,Bachelor of Environmental Studies,3325,3414,95
+2019,SIT,Bachelor of Engineering with Honours in Marine Engineering ,3300,3500,96
+2019,SIT,Bachelor of Science in Chemical Engineering,3300,3200,97
+2019,NTU,Biological Sciences,3300,3250,98
+2019,NTU,Sociology,3300,3220,99
+2019,NUS,Bachelor of Arts (Industrial Design) ,3300,3250,100
+2019,SIT,Bachelor of Arts in Game Design ,3220,3300,101
+2019,NTU,Chinese,3210,3500,102
+2019,NTU,Communication Studies,3200,3000,103
+2019,NTU,Linguistics and Multilingual Studies,3200,3200,104
+2019,NUS,Bachelor of Arts,3200,3200,105
+2019,NUS,Bachelor of Science (Project and Facilities Management),3155,3060,106
+2019,SIT,Bachelor of Fine Arts in Digital Arts and Animation,3150,2800,107
+2019,SIT,Bachelor of Accountancy with Honours,3100,3075,108
+2019,SIT,Bachelor of Engineering with Honours in Mechanical Design and Manufacturing Engineering ,3100,3253,109
+2019,NUS,Bachelor of Science,3100,3100,110
+2019,SMU,Accountancy,3050,3000,111
+2019,SIT,Bachelor of Hospitality Business with Honours,3000,2825,112
+2019,SUSS,Bachelor of Accountancy,3000,3000,113
+2019,SUSS,Bachelor of Human Resource Management,3000,0,114
+2019,SUSS,Bachelor of Science in Marketing,3000,3000,115
+2019,NTU,Accountancy,3000,3000,116
+2019,NTU,"Art, Design and Media",3000,3000,117
+2019,NTU,Biomedical Sciences and Chinese Medicine ,3000,3000,118
+2019,NTU,English,3000,3000,119
+2019,NUS,Bachelor of Business Administration (Accountancy),3000,3020,120
+2019,SIT,Bachelor of Food Technology with Honours,2975,0,121
+2019,SIT,Bachelor of Arts with Honours in Communication Design,2800,2950,122
+2019,SIT,Bachelor of Arts with Honours in Interior Design,2700,2775,123
+2019,SIT,Bachelor of Business Administration in Food Business Management ,2625,2663,124
+2019,SIT,Bachelor in Science (Diagnostic Radiography) **,na,na,na
+2019,SIT,Bachelor in Science (Radiation Therapy) **,na,na,na
+2019,SIT,Bachelor of Engineering with Honours in Naval Architecture **,na,na,na
+2019,SIT,Bachelor of Engineering with Honours in Offshore Engineering **,na,na,na
+2019,SIT,Bachelor of Science in Electrical Engineering and Information Technology **,na,na,na
+2019,NTU,Aerospace Engineering and Economics **,na,na,na
+2019,NTU,Business and Computer Engineering **,na,na,na
+2019,NTU,Chemical and Biomolecular Engineering and Economics **,na,na,na
+2019,NTU,Civil Engineering and Economics **,na,na,na
+2019,NTU,Environmental Engineering and Economics **,na,na,na
+2019,NTU,Materials Engineering and Economics **,na,na,na
+2019,NTU,Mechanical Engineering and Economics **,na,na,na
+2019,NUS,Bachelor of Computing (Electronic Commerce) **,na,na,na
+2019,NUS,Bachelor of Computing (Information Security) **,na,na,na
+2019,NUS,Bachelor of Science (Computational Biology) **,na,na,na

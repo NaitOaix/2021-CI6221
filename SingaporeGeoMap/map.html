@@ -1,0 +1,132 @@
+<!doctype html>
+<html>
+<head>
+		<title>Singapore University</title>
+		<script src="https://d3js.org/d3.v4.min.js"></script>
+		<script src="//d3js.org/topojson.v1.min.js"></script>
+		<script src="https://d3js.org/d3-geo.v1.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+		<div id="tooltip" class="hidden">
+			<p><span id="value"></p>
+		</div>
+<script>
+var margin = {top: 100, right: 10, bottom: 10, left: 10},
+		padding = {top: 10, right: 10, bottom: 10, left: 10},
+		vizWidth = 1060,
+		vizHeight = 600,
+		plotWidth = vizWidth - margin.left - margin.right,
+		plotHeight = vizHeight - margin.top - margin.bottom,
+		panelWidth = plotWidth - padding.left - padding.right,
+		panelHeight = plotHeight - padding.top - padding.bottom;
+
+var viz = d3.select("body").append("svg")
+					.classed("viz",true)
+    				.attr("width", vizWidth)
+    				.attr("height", vizHeight);
+					
+var title = viz.append("text")
+		.attr("transform", "translate(200,0)")
+		.attr("x", 150)
+		.attr("y", 50)
+		.attr("font-size", "24px")
+		.attr("font-weight", "800" )
+	
+		.text("Singapore University Ranking");
+
+var color = d3.scaleOrdinal(['#4daf4a', '#3777eb8', '#ff7f00', '#984ea3', '#e41a1c']);
+		
+var plot = viz.append("g")
+		.attr("class","plot")
+		.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+        
+		
+var panel = plot.append("g")
+		.attr("class","panel")
+		.attr("transform", "translate(" + padding.left + "," + padding.top + ")");
+
+var div = d3.select("body").append("div")
+    
+	.attr("fill", "darkslategray")
+    .style("display", "none");
+
+//Important Functions
+function drawTooltip(d) {
+		console.log(d);
+		var xPosition = d3.event.pageX;
+		var yPosition = d3.event.pageY;
+
+		d3.select("#tooltip")
+			.classed("hidden",false)
+			.style("left", xPosition + "px")
+			.style("top", yPosition + "px")
+			.text(d.properties.PLN_AREA_N)
+}
+
+function mouseout() {
+	d3.select("#tooltip").classed("hidden", true);
+	d3.select(this).classed("highlight",false)
+}
+
+function mousemove(d) {
+      console.log(d);
+	  var xPosition = d3.event.pageX;
+	  var yPosition = d3.event.pageY;
+      d3.select("#tooltip")
+        .html(d.name + "<br>" + "Rank: " + d.rank)
+        .classed("hidden",false)
+			.style("left", xPosition + "px")
+			.style("top", yPosition + "px")
+}
+
+d3.json("sg.json", function(sg) {
+		var projection = d3.geoMercator().fitSize([panelWidth,panelHeight],sg),
+				geoPath = d3.geoPath(projection);
+
+		// Create data for circles:
+		var markers = [
+			{long: 103.8521, lat: 1.296, rank: 777, name: "Singapore Management University"}, // Singapore Management University
+			{long: 103.6831, lat: 1.3483, rank: 33, name: "Nanyang Technology University"}, // Nanyang Technology University
+			{long: 103.7768, lat: 1.2962, rank: 11, name: "National University Singapore"}, // National University Singapore
+			{long: 103.7904, lat: 1.3004, rank: 2503, name: "Singapore Institude of Technology"}, // Singapore Institude of Technology
+			{long: 103.8489, lat: 1.2979, rank: 5355, name: "Singapore University of Social Science"}, // Singapore Institude of Technology
+			{long: 103.9633, lat: 1.3414, rank: 1199, name: "Singapore University of Technology and Design"}, // Singapore University of Technology and Design
+			
+		];
+		
+		var areas = panel.selectAll("path")
+										.data(sg.features)
+										.enter()
+										.append("path")
+												.attr("d",geoPath)
+												.classed("area",true)
+												.on('mouseover', function(d) {
+													d3.select(this).classed("highlight",true);
+													drawTooltip(d);})
+												.on('mouseout',mouseout);
+		
+					panel.selectAll("myCircles")
+										.data(markers)
+										.enter()
+										.append("circle")
+										.attr("cx", d => projection([d.long, d.lat])[0])
+        								.attr("cy", d => projection([d.long, d.lat])[1])
+										.attr("r", 14)
+										//.style("fill", "69b3a2")
+										.style("fill", function(d){return color(d.rank)})
+										.attr("stroke", "#69b3a2")
+										.attr("stroke-width", 3)
+										.attr("fill-opacity", .4)
+										.on('mouseover', function(d) {
+										
+													mousemove(d);})
+									    .on('mouseout',mouseout);
+										
+									
+});
+
+
+	</script>
+</body>
+</html>
